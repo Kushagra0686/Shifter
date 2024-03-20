@@ -6,7 +6,7 @@ This Python script implements the Caesar Cipher, a simple and classic encryption
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your_username/ceasar-cipher.git
+   https://github.com/Kushagra0686/PRODIGY_CS_01.git
    ```
 
 2. **Navigate to the Project Directory:**
