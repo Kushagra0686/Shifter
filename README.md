@@ -16,7 +16,7 @@ This Python script implements the Caesar Cipher, a simple and classic encryption
 
 3. **Run the Script:**
    ```
-   python ceasar_cipher.py
+   python shifter.py
    ```
 
 4. **Follow the On-Screen Instructions:**  
