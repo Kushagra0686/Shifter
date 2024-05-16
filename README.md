@@ -10,7 +10,7 @@ This Python script implements the Caesar Cipher, a simple and classic encryption
 
 1. **Clone the Repository:**
    ```
-   https://github.com/Kushagra0686/PRODIGY_CS_01.git
+   https://github.com/Kushagra0686/Shifter
    ```
 
 2. **Navigate to the Project Directory:**
