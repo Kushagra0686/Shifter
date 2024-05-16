@@ -15,7 +15,7 @@ This Python script implements the Caesar Cipher, a simple and classic encryption
 
 2. **Navigate to the Project Directory:**
    ```
-   cd PRODIGY_CS_01
+   cd Shifter
    ```
 
 3. **Run the Script:**
